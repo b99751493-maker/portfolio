@@ -1,21 +1,14 @@
-// ============================================================
-//  SITE DATA — barcha shaxsiy ma'lumotlar SHU YERDA tahrirlanadi.
-//  Qiymat bo'sh ('' yoki []) bo'lsa, saytda aniq belgilangan
-//  placeholder ko'rinadi. Hech narsa o'ylab topilmagan.
-// ============================================================
+
 
 export const profile = {
-  name: '[YOUR NAME]',
-  initials: '[YI]', // masalan: 'BB'
-  profession: '[YOUR PROFESSION]',
-  intro: '[YOUR INTRODUCTION]',
-  age: '[YOUR AGE]',
-  location: '[YOUR LOCATION]',
-  experience: '[YOUR EXPERIENCE]',
-  skillsSummary: '[YOUR SKILLS]',
-  bio: '[WRITE ABOUT YOURSELF]',
-  goals: '[YOUR GOALS]',
-  photo: '', // masalan: '/photo.jpg'  (rasmni public/ papkasiga qo'ying)
+  name: '[BEXRUZ]',
+ profession: '[DASTURCHI]',
+  age: '[14]',
+  location: '[GULISTON SHAHARI, SIRDARYO VILOYATI,6MAVZE]',
+  experience: '[JAVASCRIPT, REACT, TAILWIND CSS,C++,HTML,CSS,PYTHON VA BOSHQALAR ]',
+  skillsSummary: '[FRONTED DASTURLASH]',
+
+  photo: ''
 }
 
 export const contacts = {
