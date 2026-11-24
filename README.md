@@ -69,3 +69,4 @@ tailwind.config.js      <- ranglar: midnight, ivory, lime, emerald, silver, chro
 - Rasmlar `loading="lazy"`, 3D sahna lazy-load (alohida chunk)
 - Semantik HTML, ARIA, "skip link", klaviatura fokusi
 # portfolio
+# portfolio
