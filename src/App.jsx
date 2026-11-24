@@ -36,7 +36,7 @@ function ScrollToTop() {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <ScrollToTop />
       <Suspense fallback={<div className="min-h-screen bg-neutral-950" />}>
         <Routes>
