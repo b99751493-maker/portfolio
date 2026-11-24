@@ -68,3 +68,4 @@ tailwind.config.js      <- ranglar: midnight, ivory, lime, emerald, silver, chro
 - Kursor faqat desktop (`hover: hover`)
 - Rasmlar `loading="lazy"`, 3D sahna lazy-load (alohida chunk)
 - Semantik HTML, ARIA, "skip link", klaviatura fokusi
+# portfolio
